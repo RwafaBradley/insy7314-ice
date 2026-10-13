@@ -1,0 +1,16 @@
+{
+  "name": "secure-mern-app-api",
+  "version": "1.0.0",
+  "description": "Structured Express backend API (books resource) - INSY7314 ICE Task 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
